@@ -1,0 +1,53 @@
+Practical Question for MAD
+
+ 1) Create a login form, both username and password fields are mandatory,
+ After entering the values transfer user control to next page showing message using
+ Toast as “You have login successfully”.[Use username “Abc” and password “123” to
+ check valid or not].
+
+
+
+ 2) Write an android application using SQLite to create employee (eid, ename, adept,
+ esalary) table and insert a record in table and display appropriate message on toast to
+ user.
+
+
+ 3) What is Curson? Demonstrate a SQLite database application to insert a record in table.
+
+
+ 4) Write a program to demonstrate below UI and pass data(first name and last name) from
+ Activity One to activity Two. Display passed data in textview on Activity Two.
+ ActivityOne
+
+ ActivityTow
+
+
+5) WAPtodemonstrate the following UI. Save date into SQLite database on Submit Button.
+ Do all validation of the following form before saving to the database.
+
+
+ 6) WAPtodemonstrate web services. Consider following information:
+ Get request: https://reqres.in/api/users?page=2
+ Use any library to make a get request and parse response into data model class and
+ show it on the UI as you want.
+
+7) Create an activity and demonstrate life cycle of activity with toast messages or logs.
+
+ 8) Create an activity and load any fragment on it. Write all life cycle methods of fragment
+ with toast messages or logs.
+
+ 9) Write a program to demonstrate following UI.
+
+ 10)Write a program to show list of student by using any adapter like array adapter, base
+ adapter etc.
+
+ 11) Write a program to demonstrate different dialogs in android.
+
+ 12)Write a program to demonstrate different menus in android.
+
+ 13)Write a program (WebView) to displaythis url ( https://imcc.mespune.in/home/ ) into
+ webview.
+
+ 14)Create a login page with username, password and login button in flutter.
+
+ 15)Write a android app which have two fragments on a single activity.

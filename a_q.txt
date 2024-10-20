@@ -1,0 +1,61 @@
+
+1. Write a program to cluster a set of points using K-means. Consider, K=4, clusters. 
+Consider Euclidean distance as the distance measure. Randomly initialize a cluster 
+mean as one of the data points. Iterate for 10 iterations. After iterations are over, print 
+the final cluster means for each of the clusters. 
+Data set iris data set  
+
+2. The table below gives the amount of Crabby Cakes made by Bakers for each year he’s 
+worked.   
+Graph the data on a scatter plot, find the line of best fit, and write the equation for the line 
+you draw.  
+Years worked 1       2        3         4        5        6
+Cakes  made 6,500   7,805   10,835    11,230     15,870    16,387 
+
+Correlation Coefficient (r): _________ 
+Type of Correlation: ______________________ 
+Using the linear regression equation predict how many Crabby cakes he will make 
+after working 10 years.   
+
+
+
+3. Write a program for multiple regression for predicting stock_index_price (dependent 
+Variable) using two independent variables (interest_rate and unemployment_rate). 
+Refer Stock_data file  
+Predict Stock index price for interest rate = 3 and unemployment rate is 5.7  
+
+4. Write a multiple regression program for predicting CO2 emission level when Volume 
+1300 of Car is and Engine weight is 3300Kg.  Refer Car data file.  
+
+
+5. Write a logistic regression program for predicting customer will subscribe for term 
+deposit Refer Bank data set 1 
+
+6. Write a logistic regression program for predicting customer will subscribe for term 
+deposit Refer Bank data set 2 
+
+
+7. Write a program for K means clustering model based on countries Longitude and 
+Latitude data set 1 
+
+
+8. Write a program for K means clustering model based on countries Longitude and 
+Latitude data set 2 
+
+
+9. Write a program to classify iris data set using Random forest method  
+ 
+
+10.  Write a program to classify the social network Advertise data1 using Bay’s 
+classification method.  
+
+ 
+11. Write a program to classify the social network Advertise data2 using Bay’s 
+classification method 
+
+
+12. Demonstrate the SVM model using the social network Advertise data1 
+
+
+13. Demonstrate the SVM model using the social network Advertise data2 
+ 

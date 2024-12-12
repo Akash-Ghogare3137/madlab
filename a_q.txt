@@ -1,3 +1,7 @@
+https://jupyter.org/try-jupyter/lab/
+
+
+https://docs.flutter.dev/get-started/install/windows/mobile
 
 1. Write a program to cluster a set of points using K-means. Consider, K=4, clusters. 
 Consider Euclidean distance as the distance measure. Randomly initialize a cluster 
